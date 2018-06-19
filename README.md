@@ -1,1 +1,1 @@
-Repository which just contains some large files that are used in other projects.
+Repository which contains some public (large) files that are used in other projects to keep other repositories small.
